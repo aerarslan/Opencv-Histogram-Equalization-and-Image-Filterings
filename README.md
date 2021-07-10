@@ -7,10 +7,10 @@ Project contains 2 parts. Both parts can be used after running the .cpp file and
 * Shows histogram of the given image
 ![histogram source](https://raw.githubusercontent.com/aerarslan/Opencv-Histogram-Equalization-and-Image-Filterings/master/histogram_source.png)
 
-* Applies histogram equalization to the RGB image
-![histogram RGB Equalization](https://raw.githubusercontent.com/aerarslan/Opencv-Histogram-Equalization-and-Image-Filterings/master/histogram_equalized_rgb.png)
+* Applies histogram equalization to the BGR image
+![histogram BGR Equalization](https://raw.githubusercontent.com/aerarslan/Opencv-Histogram-Equalization-and-Image-Filterings/master/histogram_equalized_bgr.png)
 
-* Converts RGB image into LAB and applies histogram equalization
+* Converts BGR image into LAB and applies histogram equalization
 ![histogram LAB Equalization](https://raw.githubusercontent.com/aerarslan/Opencv-Histogram-Equalization-and-Image-Filterings/master/histogram_equalized_Lab.png)
 
 ### Part 2
